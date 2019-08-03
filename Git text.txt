@@ -1,0 +1,190 @@
+
+
+Data:
+	V3
+		velocity:
+			-fasting growing 
+		variaty	 : different type data 
+				-structured
+				-semi structure
+				-non-structure
+		volumne  : data should in GB
+
+
+
+
+
+Git :   application which should be install on device /local machine
+		CI -> Continous integration of data 
+		add data on server(cloud) and fetch from anywhere 
+
+
+GitHub:	cloud 
+
+Life cycle of git
+		-> untracted data or source code
+
+		-> git init 		: initialze the repo
+		-> git add		: add the data of file for tracking (for sharing)
+
+
+		-> git commit 		: save data 
+
+	
+		-> git push 		: share on server / cloud 
+
+
+
+	<-	git pull 
+
+				
+		
+		git init
+		git add .
+		git status
+		git commit -m "comment..."
+
+
+$ history
+    1  git init
+    2  git status
+    3  git add .
+    4  git satus
+    5  git status
+    6  git status
+    7  git add .
+    8  git commit -m "my data "
+    9  git log
+    12  git status
+   13  git diff testscrpt.r
+   14  git add .
+   15  git commit -m "data change"
+   16  git log
+   17  git remote add origin https://github.com/AmreekRavi/TestAm.git
+   18  git push -u origin master
+   19  git add .
+   20  git commit -m "test"
+   21  git push -u origin master
+   22  git rm --cached testscrpt.r
+   23  git commit -m "Removed"
+   24  git push -u origin master
+   25  history
+
+$ git push -u serv master
+$ git remote add serv https://github.com/Abhishek995/mydata
+
+
+$ history
+    1  status
+    2  git init
+    3  git add.
+    4  git commit
+    5  git remote add origin https://github.com/Abhishek995/Test1.git
+    6  git push -u origin master
+    7  git remote add origin https://github.com/Abhishek995/Test1.git
+    8  git push -u origin master
+    9  git status
+   10  git init
+   11  git status
+   12  git add.
+   13  git status
+   14  git pull
+   15  git clone http://github/amreekravi/testam
+   16  git pull
+   17  git pull testAm
+   18  git pull TestAm
+   19  status
+   20  cd testam
+   21  git clone https://github.com/AmreekRavi/TestAm
+   22  git pull https://github.com/AmreekRavi/TestAm
+   23  cd testam
+   24  git pull
+   25  git remote add origin https://github.com/Abhishek995/Test1.git
+   26  git push -u origin master
+   27  init
+   28  git init
+   29  git add .
+   30  git commit -m "test"
+   31  git push -u original master
+   32  git init
+   33  git status
+   34  git add .
+   35  git commit -m "my data"
+   36  git commit
+   37  git commit -m "my data"
+   38  git config --global user.email "you@example.com"
+   39  git config --global user.email "Abhishek.rocker92@gmail.com"
+   40  git config --global user.name "Your Name"
+   41  git config --global user.name "Your Name"
+   42  git init
+   43  git status
+   44  git commit -m "our"
+   45  git push
+   46  git push -u origin master
+   47  git push -u origin master
+   48  git push -u origin master
+   49  history
+   50  git log
+   51  git config --global user.name "Abhishek995"
+   52  git push -u origin master
+   53  git config --global user.name "Test1"
+   54  git push -u origin master
+   55  git add.
+   56  git commit -m "Test"
+   57  status
+   58  git init
+   59  status
+   60  git status
+   61  git init
+   62  ststus
+   63  git status
+   64  git add .
+   65  git commit -m "dfsdf"
+   66  git push -u origin master
+   67  git push -u
+   68  git remote add origin https://github.com/Abhishek995/Test1.git
+   69  git push -u origin master
+   70  status
+   71  git status
+   72  git init
+   73  status
+   74  git status
+   75  git init
+   76  git status
+   77  git commit
+   78  git status
+   79  git init
+   80  git status
+   81  git add .
+   82  git commit -m "my data"
+   83  git push -u origin master
+   84  git status
+   85  git remote add origin https://github.com/Abhishek995/Test1.git
+   86  git status
+   87  git init
+   88  git status
+   89  git init
+   90  git status
+   91  git init
+   92  git status
+   93  git add .
+   94  git commit -m "sdff sdf"
+   95  git log
+   96  git init
+   97  git status
+   98  git init.
+   99  git status
+  100  git add .
+  101  git commit - m "my data"
+  102  git init
+  103  git status
+  104  git add .
+  105  git commit - m "my test data"
+  106  git commit -m "my data"
+  107  git remote add origin https://github.com/Abhishek995/mydata.git
+  108  git push -u origin master
+  109  git remove add serv https://github.com/Abhishek995/mydata
+  110  git remote add serv https://github.com/Abhishek995/mydata
+  111  git push -u serv master
+  112  history
+
